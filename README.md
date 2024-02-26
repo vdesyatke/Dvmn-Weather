@@ -3,7 +3,7 @@ Devman task project - weather in London, Cherepovets, Sheremetyevo.
 Source of weather data is wttr.in
 
 ## Installation
-The software requires no installation. You can run this python script with any python interpreter
+To install the dependencies, simply run ```pip install -r requirements.txt```.
 
 ## Examples of use
 ```python
