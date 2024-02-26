@@ -14,5 +14,6 @@ if __name__ == '__main__':
         url = f'https://www.wttr.in/{place}'
         response = requests.get(url, params=payload)
         response.raise_for_status()
+        print(response.url)
         print(response.text)
 
