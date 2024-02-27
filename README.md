@@ -3,7 +3,10 @@ Devman task project - weather in London, Cherepovets, Sheremetyevo.
 Source of weather data is wttr.in
 
 ## Installation
-To install the dependencies, simply run ```pip install -r requirements.txt```.
+0. You need python interpreter installed on your PС. The project is tested on Python 3.10.
+1. Clone the project to your PC, details [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+2. Install, run and activate your virtual environment, details [here](https://docs.python-guide.org/dev/virtualenvs/).
+3. To install the dependencies, simply run ```pip install -r requirements.txt```.
 
 ## Examples of use
 ```python
